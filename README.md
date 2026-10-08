@@ -16,4 +16,4 @@
     <li>the app should be running on <a>http://localhost:3000</a>. visit it in the browser to use the app</li>
 </ul>
 
-### Update for Training
+### Update for Training 
